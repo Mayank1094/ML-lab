@@ -1,9 +1,0 @@
-Sky,Temperature,Humidity,Wind,Play
-Sunny,Warm,Normal,Weak,yes
-Sunny,Warm,High,Strong,yes
-Rainy,Cold,High,Strong,no
-Sunny,Cold,Normal,Weak,yes
-Rainy,Warm,Normal,Weak,yes
-Rainy,Cold,High,Weak,no
-Sunny,Warm,Normal,Strong,yes
-Rainy,Warm,High,Strong,no
